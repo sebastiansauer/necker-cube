@@ -5,6 +5,15 @@
 <p>This study investigates attentional processes using a well-known bistabile image paradigm. Precisely, participants watch the Necker cube, a simple wire frame cube. The necker cube can be perceived in one of two perspectives. After a couple of seconds, the perspective "flips" from one perspective to the other. This flip or change in perception cannot (readily) suspended by will, although there is some variation in the inter-flip interval. For instance, the flip span has be associated with the temporal expansion of the working memory (cf. Sauer et al., 2012).</p>
 
 
+
+For direct access to the images use the following URL:
+
+https://raw.github.com/sebastiansauer/necker-cube/master/img/Necker-Cube-crop.png
+
+
+
+
+
 <p>Literature:</p>
 <p>Sauer, S., Lemke, J., Wittmann, M., Kohls, N., Mochty, U., & Walach, H. (2012). How long is now for mindfulness meditators? Personality and Individual Differences, 52(6), 750-754. http://dx.doi.org/10.1016/j.paid.2011.12.026</p>
 
