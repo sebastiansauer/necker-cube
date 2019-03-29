@@ -5,6 +5,9 @@
 <p>This study investigates attentional processes using a well-known bistabile image paradigm. Precisely, participants watch the Necker cube, a simple wire frame cube. The necker cube can be perceived in one of two perspectives. After a couple of seconds, the perspective "flips" from one perspective to the other. This flip or change in perception cannot (readily) suspended by will, although there is some variation in the inter-flip interval. For instance, the flip span has be associated with the temporal expansion of the working memory (cf. Sauer et al., 2012).</p>
 
 
+The technical setup of the study is based on the online experiment software [lab.js](https://lab.js.org/) by Felix Henninger. For this purpose, a .json file is included that contains the study. Technically, this boils down to a number of html pages alongside with the JS code which does all the magic. Specifically, this allows to measure reaction time online without that the user needs to download software. The time measurement is done via the JS in the client browser.
+
+
 
 For direct access to the images use the following URL:
 
